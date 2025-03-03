@@ -6,6 +6,5 @@ Usage:
 
 
 Use as: Put your page link in page 75
-than,
-node gitbook2pdf.js
-
+then,
+type(or paste) "node gitbook2pdf.js" in your command prompt
