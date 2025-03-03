@@ -5,5 +5,7 @@ Usage:
 2. install dependencies (npm install puppeteer)
 
 
-Use as: node gitbook2pdf.js
-Put your page link in page 75
+Use as: Put your page link in page 75
+than,
+node gitbook2pdf.js
+
